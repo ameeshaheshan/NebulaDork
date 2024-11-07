@@ -37,7 +37,7 @@ NebulaDork is an open-source, high-speed Python tool for Google dorking that fil
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/NebulaDork.git
+git clone https://github.com/ameeshaheshan/NebulaDork.git
 
 # Navigate to the directory
 cd NebulaDork
@@ -63,13 +63,12 @@ usage: main.py [-h] --dork DORK [--pages PAGES] [--filter FILTER] [--file-type F
   --dork DORK           Dork query
   --pages PAGES         Number of pages to fetch
   --filter FILTER       Filter by domain (e.g. .gov, .edu)
-  --file-type FILE_TYPE
-                       Filter by file type (e.g. pdf, doc)
+  --file-type FILE_TYPE Filter by file type (e.g. pdf, doc)
   --delay DELAY         Delay between requests (seconds)
   --save                Save output to file
   --verbose             Verbose mode for debugging
   --captcha-api CAPTCHA_API
-                       API key for CAPTCHA solving service (e.g. 2captcha)
+                        API key for CAPTCHA solving service (e.g. 2captcha)
   --threads {1,2,3,4,5,6,7,8,9,10}
                        Number of threads for parallel requests (min 1, max 10)
   --show-title         Show titles of the search results along with URLs
@@ -116,15 +115,11 @@ This tool is for educational and ethical testing purposes only. Users are respon
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/NebulaDork&type=Date)](https://star-history.com/#yourusername/NebulaDork&Date)
 
 ---
 <div align="center">
-Made with ❤️ by [Your Name]
+Made with ❤️ by Ameesha Heshan
 </div>
