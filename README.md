@@ -117,7 +117,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/NebulaDork&type=Date)](https://star-history.com/#yourusername/NebulaDork&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ameeshaheshan/NebulaDork&type=Date)](https://star-history.com/#ameeshaheshan/NebulaDork&Date)
 
 ---
 <div align="center">
