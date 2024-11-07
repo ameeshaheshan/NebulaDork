@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/s0md3v/XSStrike"><img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/banner.png" alt="NebulaDork"></a>
+  <a href="https://github.com/ameeshaheshan/NebulaDork/"><img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/banner.png" alt="NebulaDork"></a>
   <br>
   NebulaDork
   <br>
@@ -18,7 +18,11 @@
 [Features](#✨-features) • [Installation](#🚀-installation) • [Usage](#💡-usage) • [Examples](#📚-examples) • [Contributing](#🤝-contributing)
 
 </div>
-
+<img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/1.png" alt="NebulaDork"></a>
+<img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/2.png" alt="NebulaDork"></a>
+<div align="center">
+  
+</div>div>
 ## 🎯 Overview
 
 NebulaDork is an open-source, high-speed Python tool for Google dorking that filters SQL-vulnerable URLs and web applications. With multi-threading support and advanced filtering capabilities, it streamlines web reconnaissance and vulnerability testing processes.
