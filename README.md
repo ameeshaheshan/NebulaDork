@@ -11,7 +11,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.3-blue.svg)
 
 **High-speed Google dorking tool with SQL injection detection capabilities**
 
@@ -22,6 +22,7 @@
   <img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/1.png" alt="NebulaDork"></a>
   <img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/2.png" alt="NebulaDork"></a>
 </div>
+
 ## 🎯 Overview
 
 NebulaDork is an open-source, high-speed Python tool for Google dorking that filters SQL-vulnerable URLs and web applications. With multi-threading support and advanced filtering capabilities, it streamlines web reconnaissance and vulnerability testing processes.
