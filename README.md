@@ -18,11 +18,9 @@
 [Features](#✨-features) • [Installation](#🚀-installation) • [Usage](#💡-usage) • [Examples](#📚-examples) • [Contributing](#🤝-contributing)
 
 </div>
-
-<img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/1.png" alt="NebulaDork"></a>
-<img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/2.png" alt="NebulaDork"></a>
 <div align="center">
-  
+  <img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/1.png" alt="NebulaDork"></a>
+  <img src="https://github.com/ameeshaheshan/NebulaDork/blob/main/src/2.png" alt="NebulaDork"></a>
 </div>
 ## 🎯 Overview
 
