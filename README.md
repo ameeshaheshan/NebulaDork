@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Open-source, High-speed Python tool for Google Dorking</h4>
+<h4 align="center">Open-source, High-speed Python Tool for Google Dorking</h4>
 
 <p align="center">
   <a href="https://github.com/s0md3v/NebulaDork/releases">
